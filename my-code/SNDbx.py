@@ -47,4 +47,4 @@
 # print(a)
 # print(b)
 
-#///// END OF CHAPTER 1 Exercises
+#///// END OF CHAPTER 2 Exercises
