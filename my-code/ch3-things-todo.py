@@ -21,20 +21,8 @@ print(no_decimal_answer)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #///// My old code is  below
+
 # #///// Redo ch3 Todo
 
 # quick_total = 60 * 60
